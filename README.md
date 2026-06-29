@@ -22,4 +22,4 @@ http://your-bucket-name.s3-website.eu-north-1.amazonaws.com
 See `/screenshots` folder.
 
 ## 👤 Author
-Your Name
+Gaurav Parmar
