@@ -5,7 +5,7 @@ A short paragraph here — what the project is, why it was built,
 and what problem it solves.
 
 ## 🚀 Live URL
-http://your-bucket-name.s3-website.eu-north-1.amazonaws.com
+[http://your-bucket-name.s3-website.eu-north-1.amazonaws.com](http://gaurav-potfolio-2026.s3-website.eu-north-1.amazonaws.com)
 
 ## 🛠 Tools Used
 - AWS S3
